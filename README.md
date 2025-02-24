@@ -11,6 +11,7 @@ Welcome to our **Intelligent Traffic Perception (ITP)** project! This repository
 - [Introduction](#introduction)
 - [Features](#features)
 - [Dataset](#dataset)
+- [Important Links](#important_links)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Details](#model-details)
@@ -56,6 +57,10 @@ We use **BDD10K** and custom datasets with annotated JSON files containing bound
  │   ├── ann/
 
 ```
+---
+## Important Links
+Model weights : https://drive.google.com/drive/folders/1hWp71RspIPoxh7CizgcR7nB8GKfi_WB8?usp=sharing
+Repo Explaination : https://youtu.be/v2BzX-Ri7Ww
 ---
 
 ## 🛠 Installation
