@@ -1,0 +1,9 @@
+--upgrade
+dataset-tools
+efficientnet_pytorch
+prefetch_generator
+pretrainedmodels
+timm==0.4.12
+torch
+torchvision
+ultralytics
