@@ -61,7 +61,8 @@ We use **BDD10K** and custom datasets with annotated JSON files containing bound
 ## 🔗 Important Links
 
 - **Model Weights:** [Google Drive](https://drive.google.com/drive/folders/1hWp71RspIPoxh7CizgcR7nB8GKfi_WB8?usp=sharing)  
-- **Repository Explanation Video:** [YouTube](https://youtu.be/v2BzX-Ri7Ww)  
+- **Repository Explanation Video:** [YouTube](https://youtu.be/v2BzX-Ri7Ww)
+- **Presentation:** [Presentation](https://docs.google.com/presentation/d/1RaMO34rJmjbxdyWAfVEyvNKBO9N96VvX/edit?usp=sharing&ouid=114301407067184703605&rtpof=true&sd=true)
 
 ---
 
